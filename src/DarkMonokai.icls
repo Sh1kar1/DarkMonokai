@@ -1,10 +1,10 @@
-<scheme name="Dark Monokai" version="142" parent_scheme="Darcula">
+<scheme name="DarkMonokai" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2024-03-17T02:54:38</property>
+    <property name="created">2024-03-17T03:57:36</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2023.3.4.0.0</property>
-    <property name="modified">2024-03-17T02:54:53</property>
-    <property name="originalScheme">Dark Monokai</property>
+    <property name="modified">2024-03-17T03:57:44</property>
+    <property name="originalScheme">DarkMonokai</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="7ec482" />
