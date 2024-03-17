@@ -1,1 +1,32 @@
-# Dark-Monokai
+# Dark Monokai
+
+**Color scheme for JetBrains IDEs** inspired by <ins>Monokai</ins>, but with <ins>IntelliJ Dark</ins> background
+
+---
+
+## Examples
+
+### Java:
+![](images/java.png)
+
+### Python:
+![](images/python.png)
+
+### C++:
+![](images/cpp.png)
+
+## Supported IDEs
+
+- **IntelliJ IDEA**
+- **PyCharm**
+- **CLion**
+
+## Installation
+
+1. Open your IDE
+2. Go to _Settings_ -> _Plugins_ -> _Marketplace_
+3. Search for "**Dark Monokai**" and install it
+4. Go to _Settings_ -> _Appearance & Behavior_ -> _Appearance_ -> _Theme_
+5. Search for "**Dark**" and choose it
+6. Go to _Settings_ -> _Editor_ -> _Color Scheme_ -> _Scheme_
+7. Search for "**Dark Monokai**" and choose it
